@@ -16,37 +16,34 @@ Senior Data Science Student
 
 ## Education
 
-`2017-2021`
+`April 2017- April 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science : Data Science
 - Minor : Statistics 
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- GPA : 3.21
 
 ## Related Experience
 
-### Internships
+### Data Science Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2020 - Aug 2020`
+__Linksbridge__, Seattle, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked with proprietary data in the global health community regarding infectious disease
+- Researched to gain information on infectious diseases 
+- Wireframing and creating Power BI dashboard with data spread out over several organizations
+- Troubleshooting and problem-solving in group settings for Power BI and R 
+- Using Power Query Editor and DAX to clean and wrangle data
 
-### Data Science Lead
+### Data Analyst 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Jan 2019 - Current`
+__BYU-I__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Generated visualizations with Power BI, R, and Report Builder
+- Applied statistical techniques to gain insights and inform decisions
+- Created multilayered interactive dashboards using Power BI
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
