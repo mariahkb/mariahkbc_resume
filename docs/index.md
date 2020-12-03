@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science : Data Science
 - Minor : Statistics 
-- GPA : 3.21
+- GPA : 3.3
 
 ## Related Experience
 
@@ -45,28 +45,31 @@ __BYU-I__, Rexburg, ID
 - Applied statistical techniques to gain insights and inform decisions
 - Created multilayered interactive dashboards using Power BI
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Projects
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`Jan 2020 - April 2020`
+__Cascadia Healthcare__, Student Consultant
 
-### Data Science Consulting Team
+- Created an interactive dashboard to modernize legacy processes using Power BI
+-  Enabled efficient monitoring of performance metrics across multiple facilities
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2020`
+__Health Assessment Automation__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Auto populated data from a PDF from a Qualtrics survey
+- Created a workflow that reduced the time from 30 hours a semester to only 3-4 hours
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`Sept 2019 - Dec 2019`
+__Snake School District__, 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Collected, cleaned, and organized data from various sources
+- Created custom visualizations and interactive reports of standardized test scores 
+
+`Sept 2018`
+__Career and Academic Advising__, 
+
+- Held meetings to discuss challenges and propose creative solutions
+- Provided analysis and insight into the advisor’s time allocation
 
 
 ## Service and Work History
