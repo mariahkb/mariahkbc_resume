@@ -74,12 +74,14 @@ __Career and Academic Advising__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Jan 2020 - Mar 2020`
+__Data Boot Camp Instructor__, Data Science Society, BYU-Idaho
 
+- Helping individual students one-on-one to develop skills in R Studio
+- Problem shooting R code with students demonstrating effective problem solving
 
-`2023-2025`
-__Service Missionary__, South Africa
+` July 2015 - Jan 2017`
+__Service Missionary__, Southern California 
 
 
 
