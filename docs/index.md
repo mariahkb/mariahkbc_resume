@@ -6,8 +6,7 @@ title: Mariah Cornelison's Resume
 Senior Data Science Student
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="mariahcornelison0@gmail.com">mariahcornelison0@gmail.com</a>
 | <a href="https://www.linkedin.com/in/mariah-cornelison/">LinkedIn</a>
 | <a href="https://github.com/mariahkb">GitHub</a>
 </div>
