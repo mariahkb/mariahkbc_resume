@@ -42,7 +42,7 @@ __Linksbridge__, Seattle, WA
 __BYU-I__, Rexburg, ID
 
 - Generated visualizations with Power BI, R, and Report Builder
-- Applied statistical techniques to gain insights and inform decisions
+- Applied statistical techniques to gain insights and informed decisions
 - Created multilayered interactive dashboards using Power BI
 
 ## Projects
